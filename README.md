@@ -41,7 +41,9 @@ Usage
 * and this
 
 -(void) loginBtnClick:(UIButton *) loginBtnClick{
+
     NSLog(@"UserName");
+
 }
 
 PS
