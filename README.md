@@ -18,7 +18,8 @@ Usage
 
 can use this to push
 
-'"objc
+'"c
+
 -(void)mainTypeBtnClicks:(UIButton *)mainTypeBtn{
     NSInteger btnTag = mainTypeBtn.tag;
     
@@ -38,4 +39,5 @@ can use this to push
         NSLog(@">>>>>>>>>>>>>>>>>= 5 =<<<<<<<<<<<<<<<");
     }
  }
+ 
 '"
