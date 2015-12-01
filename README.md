@@ -16,9 +16,7 @@ Usage
 ====
  * (see sample Xcode project in /Demo)
 
-can use this to push
-
-'"c
+* can use this to push other ViewController
 
 -(void)mainTypeBtnClicks:(UIButton *)mainTypeBtn{
     NSInteger btnTag = mainTypeBtn.tag;
@@ -40,4 +38,13 @@ can use this to push
     }
  }
  
-'"
+* and this
+
+-(void) loginBtnClick:(UIButton *) loginBtnClick{
+    NSLog(@"UserName");
+}
+
+PS
+====
+There is no package is complete, and are free to continue to collate
+
