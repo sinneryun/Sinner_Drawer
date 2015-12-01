@@ -1,7 +1,7 @@
 SinnerDrawer
 ====
  * Convenient drawer, can be placed on top of tablebar and navigation, for example, operates at the window
-------- 
+ 
 
 
 ![](https://raw.githubusercontent.com/sinneryun/SinnerDrawer/master/Simulator%201.png)
@@ -17,7 +17,8 @@ Usage
  * (see sample Xcode project in /Demo)
 
 can use this to push
-'"c
+
+'"objc
 -(void)mainTypeBtnClicks:(UIButton *)mainTypeBtn{
     NSInteger btnTag = mainTypeBtn.tag;
     
@@ -36,5 +37,5 @@ can use this to push
     }else if (btnTag==14) {
         NSLog(@">>>>>>>>>>>>>>>>>= 5 =<<<<<<<<<<<<<<<");
     }
-}
+ }
 '"
