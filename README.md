@@ -1,5 +1,5 @@
 # SinnerDrawer
 A handy drawer effect by self
 
-![](https://github.com/sinneryun/SinnerDrawer/121.gif)  
-![](http://pan.baidu.com/disk/home#render-type=grid-view&path=%252FGit)  
+![](https://raw.githubusercontent.com/sinneryun/SinnerDrawer/master/Simulator%201.png)
+![](https://raw.githubusercontent.com/sinneryun/SinnerDrawer/master/Simulator%202.png)
